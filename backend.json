@@ -1,0 +1,6 @@
+{
+  "gcloud": {
+    "endpoint": "https://us-west1-cs-274-exam-for-credit.cloudfunctions.net/foobar-projects-backend"
+  },
+  "github-actions": "enabled"
+}
